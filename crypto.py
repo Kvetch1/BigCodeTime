@@ -15,3 +15,4 @@ for tr in trs[:10]:
     fixed_price = price.a.string
 
     prices[fixed_name] = fixed_price
+    print(fixed_name, fixed_price)
