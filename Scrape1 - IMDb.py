@@ -51,5 +51,3 @@ except Exception as e:
 
 
 excel.save('IMDB Movie Ratings.xlsx')
-
-# hello #
